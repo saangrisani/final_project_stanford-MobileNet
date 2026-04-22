@@ -1,9 +1,7 @@
 tensorflow
 numpy
-pandas
 matplotlib
+pandas
 scikit-learn
-opencv-python
 jupyter
 kaggle
-seaborn
